@@ -68,4 +68,4 @@ function moveBall() {
 
 }
 
-intervalId = setInterval(moveBall, 1);
+intervalId = setInterval(moveBall, 10);
